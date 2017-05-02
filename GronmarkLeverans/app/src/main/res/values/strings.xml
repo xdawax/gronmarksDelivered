@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Gronmark Leverans</string>
+    <string name="app_name">Levererade varor</string>
+    <string name="send">Skicka</string>
 </resources>
